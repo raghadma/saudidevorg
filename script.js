@@ -1,8 +1,8 @@
 //By: Raghad Alsaleh
 
 
-//First Day
-document.write("مرحبا بكم عالم الجافا سيكربت")
-
-document.write(5+6)
-
+//variabels
+var x= "مرحبا بكم عالم الجافا سيكربت"
+document.write(x)
+var y=5
+document.write(y)
